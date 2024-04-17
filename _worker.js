@@ -7,6 +7,18 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
+	'www.6i5.com#官方优选域名',
+  'cdn.onlyno999.top#官方优选域名',
+  'www.owlook.com.cn#官方优选域名',
+  'www.ydxs.cc#官方优选域名',
+  'hkauto.kingbuy.top#官方优选域名',
+  'xs.wxtv.cc#官方优选域名',
+  'm.tvfff.com#官方优选域名',
+  'cdn.onlyno999.cloudns.org#官方优选域名',
+  'www.tvccc.org#官方优选域名',
+  'zi0.cc#官方优选域名',
+  'www.paizipai.top#官方优选域名',
+  'gohkonlyno999.top.tvb.onlyno999.top#官方优选域名'
 ];
 
 // 设置优选地址api接口
